@@ -55,6 +55,11 @@ plan:
             path: contracts/cargo.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: port-management
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/port-management.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: route-optimization
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/route-optimization.clar
