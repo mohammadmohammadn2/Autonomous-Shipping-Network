@@ -5,3 +5,5 @@ R
 "contracts/vessel-registration.clar,3/4/34f00294fc09f2df89e01b777f49cebd7b1ac260
 Q
 !tests/vessel-registration.test.ts,7/4/741d85d02dede1c971bc922f1c27a1564657cc52
+D
+contracts/cargo.clar,d/5/d5e8a441b7b724bd8dc34503e47915aae6768613
