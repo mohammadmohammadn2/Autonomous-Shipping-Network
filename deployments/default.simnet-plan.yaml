@@ -55,6 +55,11 @@ plan:
             path: contracts/cargo.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: route-optimization
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/route-optimization.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: vessel-registration
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/vessel-registration.clar

@@ -9,3 +9,5 @@ D
 contracts/cargo.clar,d/5/d5e8a441b7b724bd8dc34503e47915aae6768613
 C
 tests/cargo.test.ts,0/6/06a1262e79c178224dd2f051f448f840038e6749
+Q
+!contracts/route-optimization.clar,0/3/038d909864c1fd35bd54b4e4486b984891d68742

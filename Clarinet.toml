@@ -10,6 +10,11 @@ path = 'contracts/cargo.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.route-optimization]
+path = 'contracts/route-optimization.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.vessel-registration]
 path = 'contracts/vessel-registration.clar'
 clarity_version = 2
